@@ -40,7 +40,7 @@
 	<br>
 	
 	<form action="ControllerBeneficiario" method="post">
-		<input type="submit" name="sibeneficiario" value="Volver a consultar" class="regresar">
+		<input type="submit" name="SIbeneficiario" value="Volver a consultar" class="regresar">
 	</form>
 
 </body>

@@ -26,9 +26,14 @@
 		<img src="RecursoImagen/imagen-gobierno-bukele.png" alt="GOBElSalvador" class="Logo">
 	</div>
 	<br>
+	<br>
+	<div class="Error">
+		<img src="RecursoImagen/error_warning_6226.png" alt="Exclamation" class="exclama">
+	</div>
+	<br>
 	<p class="intro">
-		<strong>Este DUI no se ha encontrado en nuestro registro. <br>Intentar más tarde,
-			con otro DUI o el de otro familiar.
+		<strong>Este DUI no se ha encontrado en nuestro registro. <br>Intentar más tarde o
+			intente con DUI de otra persona de su vivienda.
 		</strong>
 	</p>
 	<br>
