@@ -19,5 +19,23 @@
 </head>
 <body>
 
+	<div class="Arriba">
+		<img src="RecursoImagen/imagen-gobierno-bukele.png" alt="GOBDeElSalvador" class="Logo">
+	</div>
+	<br>
+	<br>
+	<p class="intro">
+		<strong> Aqui puedes Consultar quién de tú familia es beneficiario de la ayuda
+		<br>economica para alimentación en la emergencia.
+		</strong>
+	</p>
+	<form action="ControllerBeneficiario" method="post">
+		<input type="text" name="dui"
+			placeholder="Ingresar tu DUI 00000000-0" class="field"
+			required> <input type="submit" value="CONSULTAR"
+			class="consultar">
+	</form>
+	<br>
+
 </body>
 </html>
