@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>CONSULTA DE AYUDA</title>
 <link rel="icon" href="RecursoImagen/virus.ico">
 <link rel="stylesheet" href="Estilo/Estilo-index.css">
 <link rel="preconnect" href="https://fonts.gstatic.com">

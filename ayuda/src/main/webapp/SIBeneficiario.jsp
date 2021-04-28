@@ -14,7 +14,7 @@
 	rel="stylesheet"
 	integrity="sha384-eOJMYsd53ii+scO/bJGFsiCZc+5NDVN2yr8+0RDqr0Ql0h+rP48ckxlpbzKgwra6"
 	crossorigin="anonymous">
-<title>Insert title here</title>
+<title>ERES BENEFICIARIO</title>
 </head>
 <body class="body2">
 <%

@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="ISO-8859-1">
-<title>Insert title here</title>
+<title>LO SENTIMOS</title>
 <link rel="icon" href="RecursoImagen/virus.ico">
 <link rel="stylesheet" href="Estilo/Estilo-nobeneficiario.css">
 <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -15,7 +15,7 @@
 <body class="body2">
 	<%
 	HttpSession sesion = (HttpSession) request.getSession();
-	String usuSession = String.valueOf(sesion.getAttribute("nobeneficiario"));
+	String usuSession = String.valueOf(sesion.getAttribute("NOBeneficiario"));
 	System.out.println("Beneficiario: " + usuSession);
 
 	if (usuSession.equals(null) || usuSession.equals("null")) {

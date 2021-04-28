@@ -62,7 +62,7 @@ public class ControllerBeneficiario extends HttpServlet {
 
 			if (soybeneficiario == 0) {
 				response.sendRedirect("NOBeneficiario.jsp");
-				session.setAttribute("NObeneficiario", soybeneficiario);
+				session.setAttribute("NOBeneficiario", soybeneficiario);
 
 			} else if (soybeneficiario == 1) {
 
