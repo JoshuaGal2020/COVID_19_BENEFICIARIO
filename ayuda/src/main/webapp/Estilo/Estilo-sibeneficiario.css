@@ -1,0 +1,37 @@
+@charset "ISO-8859-1";
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+.regresar {
+	font-family: "Montserrat", sans-serif;
+	font-size: 25px;
+	text-align: center;
+	width: 20%;
+	display: block;
+	margin: auto;
+	border: solid 2px #1FA189;
+	padding: 10px;
+	background: #1FA189;
+	color: #ffff;
+	border-radius: 20px;
+	cursor: pointer;
+}
+.Arriba {
+	background-color: #303846;
+	border-bottom: 100px;
+}
+.Logo {
+	width: 45%;
+	display: block;
+	margin: auto;
+}
+.body2 {
+	background-color: #b2c2cf;
+	font-family: "Montserrat", sans-serif;
+}
+.intro {
+	text-align: center;
+	font-size: 25px;
+}
